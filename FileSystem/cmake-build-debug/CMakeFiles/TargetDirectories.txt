@@ -1,0 +1,3 @@
+D:/Learning/LearningOS/Learning-OS/FileSystem/cmake-build-debug/CMakeFiles/FileSystem.dir
+D:/Learning/LearningOS/Learning-OS/FileSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Learning/LearningOS/Learning-OS/FileSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
